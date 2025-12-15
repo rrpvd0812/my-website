@@ -52,7 +52,7 @@ const Gallery: React.FC = () => {
            <p className="text-gray-700 italic text-center text-lg">
              "RR PVD Coating provided us with the perfect Rose Gold recipe that significantly increased our product sales. Their technical support is unmatched."
            </p>
-           <p className="text-gray-500 text-center mt-4 text-sm font-bold">- Satisfied Industrial Client</p>
+           <p className="text-gray-500 text-center mt-4 text-sm font-bold">- Mayura PVD</p>
         </div>
       </div>
     </section>
