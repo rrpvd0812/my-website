@@ -2,7 +2,7 @@ import React from 'react';
 
 const images = [
   { 
-    url: 'https://images.unsplash.com/photo-1601666628612-9c169229e00e?auto=format&fit=crop&q=80&w=800', 
+    url: '/Gallery/utensils.png', 
     title: 'Gold PVD Cutlery' 
   },
   { 
