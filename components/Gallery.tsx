@@ -6,15 +6,15 @@ const images = [
     title: 'Gold PVD Cutlery' 
   },
   { 
-    url: 'https://images.unsplash.com/photo-1519947486511-4639940be434?auto=format&fit=crop&q=80&w=800', 
-    title: 'Designer Steel Chair' 
-  },
-  { 
-    url: 'https://images.unsplash.com/photo-1565182999176-4552c5a59330?auto=format&fit=crop&q=80&w=800', 
+    url: '/Gallery/pvdrailings.png', 
     title: 'Architectural Railings' 
   },
   { 
-    url: 'https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&q=80&w=800', 
+    url: '/Gallery/sink.png', 
+    title: 'Designer Steel Sink' 
+  },
+  { 
+    url: '/Gallery/others.png', 
     title: 'Sanitary Fittings' 
   },
 ];
