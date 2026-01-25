@@ -60,7 +60,7 @@ const Contact: React.FC = () => {
 
             <div className="mt-12">
                <div className="w-full h-1 bg-gradient-to-r from-gold-500 to-transparent opacity-50"></div>
-               <p className="text-sm text-gray-500 mt-4">© 2024 RR PVD Coating and Solutions</p>
+               <p className="text-sm text-gray-500 mt-4">© 2026 RR PVD Coating and Solutions</p>
             </div>
           </div>
 
